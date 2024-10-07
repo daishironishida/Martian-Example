@@ -2,10 +2,10 @@
   "name": "martian-example",
   "version": "1.0.0",
   "description": "An example usage of Martian to import a Markdown file with equations into Notion",
-  "main": "server.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "@notionhq/client": "^2.2.7",
